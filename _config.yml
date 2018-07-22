@@ -11,9 +11,6 @@
 #    |  |  \   --. /  .'.  \  |  |
 #    `--'   `----''--'   '--' `--'
 
-# theme
-theme: jekyll-text-theme
-
 ## => Site Settings
 ##############################
 text_skin: forest # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
