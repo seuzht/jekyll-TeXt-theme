@@ -4,15 +4,19 @@ key: 20180722
 tags: Tech. Robot
 ---
 
->Background
+>Camera VedioCapture
 
->Conception
+>Image Process
 
->Design
+>Edges mask (based on Cartoonified Project)
 
->Robot arm
+>Contour fitting
 
->Linear algorithm
+>Point Set Sorting & Extraction
+
+>TCP 
+
+>Robot Controller
 
 <!--more-->
   to be updated
