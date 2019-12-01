@@ -7,7 +7,7 @@ Hi friend! I am Dennis.
 
 This file will teach you how to configure & debug the 'Cartoonifier' project on Android platform.
 
-###1.OpenCV Android ![Official Documents](https://opencv.org/android/)
+### 1.OpenCV Android ![Official Documents](https://opencv.org/android/)
 
 Introduction into Android Development
 https://docs.opencv.org/2.4/doc/tutorials/introduction/android_binary_package/android_dev_intro.html
@@ -16,7 +16,7 @@ https://docs.opencv.org/2.4/doc/tutorials/introduction/android_binary_package/O4
 Android Development with OpenCV
 https://docs.opencv.org/2.4/doc/tutorials/introduction/android_binary_package/dev_with_OCV_on_Android.html
 
-###2.Preparation for Related Software Tools and PlugIns
+### 2.Preparation for Related Software Tools and PlugIns
 
 JDK https://www.oracle.com/technetwork/java/javase/downloads/index.html
 Android Dev Environment adt-bundle android-studio sdk adt 
@@ -26,7 +26,7 @@ adt-bundle = Ecipse+(NDK)+Android SDK + ADT +CDT
 ![com.android.ide.eclipse.ndk_23.0.2.1259578.jar](https://pan.baidu.com/s/1jHSkCZG?fid=710081727453245) let Eclipse "windows-Preference-Android" has "NDK".
 ![OpenCV-Android-SDK](https://sourceforge.net/projects/opencvlibrary/files/opencv-android/2.4.11/OpenCV-2.4.11-android-sdk.zip/download
 
-###3.Installation and Configuration
+### 3.Installation and Configuration
 
 Edit the Android.mk file：
 
