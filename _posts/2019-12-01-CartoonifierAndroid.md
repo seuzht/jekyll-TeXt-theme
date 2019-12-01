@@ -14,28 +14,27 @@ This file will teach you how to configure & debug the 'Cartoonifier' project on 
 [Official Documents](https://opencv.org/android/)
 
 ![](https://github.com/seuzht/seuzht.github.io/blob/master/Images/opencv4Android.png)
-
 Introduction into AndroidDevelopment
 https://docs.opencv.org/2.4/doc/tutorials/introduction/android_binary_package/android_dev_intro.html)
+
 OpenCV4Android SDK
 https://docs.opencv.org/2.4/doc/tutorials/introduction/android_binary_package/O4A_SDK.html#o4a-sdk
+
 Android Development with OpenCV
 https://docs.opencv.org/2.4/doc/tutorials/introduction/android_binary_package/dev_with_OCV_on_Android.html
 
 ### 2.Preparation for Related Software Tools and PlugIns
 
 [JDK](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
+
 Android Dev Environment adt-bundle android-studio sdk adt 
-
 [Download](https://blog.csdn.net/u013758456/article/details/51939104)
-
 adt-bundle = Ecipse+(NDK)+Android SDK + ADT +CDT
 
 [NDK Download](https://developer.android.google.cn/ndk/downloads)
 
-[com.android.ide.eclipse.ndk_23.0.2.1259578.jar](https://pan.baidu.com/s/1jHSkCZG?fid=710081727453245) let Eclipse "windows-Preference-
-
-Android" has "NDK".
+[com.android.ide.eclipse.ndk_23.0.2.1259578.jar](https://pan.baidu.com/s/1jHSkCZG?fid=710081727453245) 
+let Eclipse "windows-Preference-Android" has "NDK".
 
 [OpenCV-Android-SDK](https://sourceforge.net/projects/opencvlibrary/files/opencv-android/2.4.11/OpenCV-2.4.11-android-sdk.zip/download
 
@@ -69,7 +68,7 @@ https://blog.csdn.net/colourful_sky/article/details/69487720
 
 Finally the project catagory tree like this:
 
-![Catagory](https://github.com/seuzht/seuzht.github.io/blob/master/Images/catagorytree.png)
+![](https://github.com/seuzht/seuzht.github.io/blob/master/Images/catagorytree.png)
 
 [Send me email](mailto:zhanghaitao@estun.com) if you have any questions.
 
