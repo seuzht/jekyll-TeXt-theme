@@ -7,6 +7,7 @@ Hi friend! I am Dennis.
 
 This file will teach you how to configure & debug the 'Cartoonifier' project on Android platform.
 
+<!--more-->
 ### 1.OpenCV Android ![Official Documents](https://opencv.org/android/)
 
 Introduction into Android Development
