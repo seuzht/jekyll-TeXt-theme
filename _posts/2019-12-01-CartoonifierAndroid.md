@@ -1,5 +1,5 @@
- ---
-title: Cartoonifier Android Configuration
+---
+title: Cartoonifier_Android
 key: 20191201
 tags: Tech.
 ---
