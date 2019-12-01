@@ -35,7 +35,9 @@ adt-bundle = Ecipse+(NDK)+Android SDK + ADT +CDT
 ### 3.Installation and Configuration
 
 Edit the Android.mk file：
+
 ![Android.mk](https://github.com/seuzht/seuzht.github.io/blob/master/Images/androidmk.png)
+
 adt-bundle Installation and Eclipse Configuration
 https://jingyan.baidu.com/article/1612d500a83696e20e1eee0b.html
 Open Android Project on Eclipse
@@ -49,8 +51,9 @@ Opencv Configuration on Eclipse
 https://blog.csdn.net/colourful_sky/article/details/69487720
 
 [Error:Program "sh" not found in PATH](https://blog.csdn.net/qingyanyichen/article/details/51153419)
---------------------------------------------------------------------------------
+
 Finally the project catagory tree like this:
+
 ![Catagory](https://github.com/seuzht/seuzht.github.io/blob/master/Images/catagorytree.png)
 
 [Send me email](mailto:zhanghaitao@estun.com) if you have any questions.
