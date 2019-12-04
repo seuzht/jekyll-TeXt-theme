@@ -13,7 +13,8 @@ This file will teach you how to configure & debug the 'Cartoonifier' project on 
 
 [Official Documents](https://opencv.org/android/)
 
-![](https://github.com/seuzht/seuzht.github.io/raw/master/Images/opencv4Android.png)
+![opencv4Android] (https://github.com/seuzht/seuzht.github.io/raw/master/Images/opencv4Android.png)
+
 Introduction into AndroidDevelopment
 https://docs.opencv.org/2.4/doc/tutorials/introduction/android_binary_package/android_dev_intro.html)
 
@@ -44,7 +45,7 @@ let Eclipse "windows-Preference-Android" has "NDK".
 
 Edit the Android.mk file：
 
-![](https://github.com/seuzht/seuzht.github.io/raw/master/Images/androidmk.png)
+![androidmk] (https://github.com/seuzht/seuzht.github.io/raw/master/Images/androidmk.png)
 
 adt-bundle Installation and Eclipse Configuration
 
@@ -70,7 +71,7 @@ https://blog.csdn.net/colourful_sky/article/details/69487720
 
 Finally the project catagory tree like this:
 
-![](https://github.com/seuzht/seuzht.github.io/raw/master/Images/catagorytree.png)
+![catagorytree] (https://github.com/seuzht/seuzht.github.io/raw/master/Images/catagorytree.png)
 
 [Send me email](mailto:zhanghaitao@estun.com) if you have any questions.
 
