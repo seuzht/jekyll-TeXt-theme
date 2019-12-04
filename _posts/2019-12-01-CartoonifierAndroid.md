@@ -73,9 +73,9 @@ Finally the project catagory tree like this:
 
 ![catagorytree] (https://github.com/seuzht/seuzht.github.io/raw/master/Images/catagorytree.png)
 
-![AppIcon] (https://github.com/seuzht/seuzht.github.io/raw/master/Images/appIcon.jpg)
+![AppIcon] (https://github.com/seuzht/seuzht.github.io/raw/master/Images/appIcon.png)
 
-![Example] (https://github.com/seuzht/seuzht.github.io/raw/master/Images/effectImage.jpg)
+![Example] (https://github.com/seuzht/seuzht.github.io/raw/master/Images/effectImage.png)
 
 [Send me email](mailto:zhanghaitao@estun.com) if you have any questions.
 
