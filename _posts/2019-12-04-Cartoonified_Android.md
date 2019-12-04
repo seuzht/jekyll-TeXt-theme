@@ -1,6 +1,6 @@
 ---
 title: Cartoonifier_Android
-key: 20191201
+key: 20191204
 tags: Tech.
 ---
 Hi friend! I am Dennis.
