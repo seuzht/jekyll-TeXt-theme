@@ -13,7 +13,7 @@ This file will teach you how to configure & debug the 'Cartoonifier' project on 
 
 [Official Documents](https://opencv.org/android/)
 
-![opencv4Android] (https://github.com/seuzht/seuzht.github.io/raw/master/Images/opencv4Android.png)
+![Opencv4Android] (https://github.com/seuzht/seuzht.github.io/raw/master/Images/opencv4Android.png)
 
 Introduction into AndroidDevelopment
 https://docs.opencv.org/2.4/doc/tutorials/introduction/android_binary_package/android_dev_intro.html)
@@ -73,7 +73,7 @@ Finally the project catagory tree like this:
 
 ![catagorytree] (https://github.com/seuzht/seuzht.github.io/raw/master/Images/catagorytree.png)
 
-![App Icon] (https://github.com/seuzht/seuzht.github.io/raw/master/Images/appIcon.jpg)
+![AppIcon] (https://github.com/seuzht/seuzht.github.io/raw/master/Images/appIcon.jpg)
 
 ![Example] (https://github.com/seuzht/seuzht.github.io/raw/master/Images/effectImage.jpg)
 
