@@ -13,7 +13,7 @@ This file will teach you how to configure & debug the 'Cartoonifier' project on 
 
 [Official Documents](https://opencv.org/android/)
 
-![Opencv4Android] (https://github.com/seuzht/seuzht.github.io/blob/master/Images/opencv4Android.png)
+![Opencv4Android] (https://github.com/seuzht/seuzht.github.io/raw/master/Images/opencv4Android.png)
 
 Introduction into AndroidDevelopment
 https://docs.opencv.org/2.4/doc/tutorials/introduction/android_binary_package/android_dev_intro.html)
@@ -45,7 +45,7 @@ let Eclipse "windows-Preference-Android" has "NDK".
 
 Edit the Android.mk file：
 
-![androidmk] (https://github.com/seuzht/seuzht.github.io/blob/master/Images/androidmk.png)
+![androidmk] (https://github.com/seuzht/seuzht.github.io/raw/master/Images/androidmk.png)
 
 adt-bundle Installation and Eclipse Configuration
 
@@ -71,15 +71,15 @@ https://blog.csdn.net/colourful_sky/article/details/69487720
 
 Finally the project catagory tree like this:
 
-![catagorytree] (https://github.com/seuzht/seuzht.github.io/blob/master/Images/catagorytree.png)
+![catagorytree] (https://github.com/seuzht/seuzht.github.io/raw/master/Images/catagorytree.png)
 
 App Icon like this:
   
-![AppIcon] (https://github.com/seuzht/seuzht.github.io/blob/master/Images/appIcon.png)
+![AppIcon] (https://github.com/seuzht/seuzht.github.io/raw/master/Images/appIcon.png)
 
 Run it and get the cartoonified image by clicking the screen:
 
-![Example] (https://github.com/seuzht/seuzht.github.io/blob/master/Images/effectImage.png)
+![Example] (https://github.com/seuzht/seuzht.github.io/raw/master/Images/effectImage.png)
 
 [Send me email](mailto:zhanghaitao@estun.com) if you have any questions.
 
