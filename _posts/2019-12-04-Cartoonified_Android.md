@@ -13,7 +13,7 @@ This file will teach you how to configure & debug the 'Cartoonifier' project on 
 
 [Official Documents](https://opencv.org/android/)
 
-![Opencv4Android] (https://github.com/seuzht/seuzht.github.io/raw/master/Images/opencv4Android.png)
+![Opencv4Android](https://github.com/seuzht/seuzht.github.io/raw/master/Images/opencv4Android.png)
 
 Introduction into AndroidDevelopment
 https://docs.opencv.org/2.4/doc/tutorials/introduction/android_binary_package/android_dev_intro.html)
@@ -61,25 +61,25 @@ https://www.cnblogs.com/chenjiajin/archive/2012/04/12/2444188.html
 
 Android NDK: APP_STL stlport_static is no longer supported
 
-https://www.jianshu.com/p/29650d3a5eab（choose right NDK version）
+https://www.jianshu.com/p/29650d3a5eab （choose right NDK version）
 
 Opencv Configuration on Eclipse
 
 https://blog.csdn.net/colourful_sky/article/details/69487720
 
-[Error:Program "sh" not found in PATH](https://blog.csdn.net/qingyanyichen/article/details/51153419)
+[Error:Program "sh" not found in PATH] (https://blog.csdn.net/qingyanyichen/article/details/51153419)
 
 Finally the project catagory tree like this:
 
-![catagorytree] (https://github.com/seuzht/seuzht.github.io/raw/master/Images/catagorytree.png)
+![catagorytree](https://github.com/seuzht/seuzht.github.io/raw/master/Images/catagorytree.png)
 
 App Icon like this:
   
-![AppIcon] (https://github.com/seuzht/seuzht.github.io/raw/master/Images/appIcon.png)
+![AppIcon](https://github.com/seuzht/seuzht.github.io/raw/master/Images/appIcon.png)
 
 Run it and get the cartoonified image by clicking the screen:
 
-![Example] (https://github.com/seuzht/seuzht.github.io/raw/master/Images/effectImage.png)
+![Example](https://github.com/seuzht/seuzht.github.io/raw/master/Images/effectImage.png)
 
 [Send me email](mailto:zhanghaitao@estun.com) if you have any questions.
 
