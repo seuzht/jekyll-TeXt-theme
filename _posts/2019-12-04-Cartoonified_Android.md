@@ -45,7 +45,7 @@ let Eclipse "windows-Preference-Android" has "NDK".
 
 Edit the Android.mk file：
 
-![androidmk] (https://github.com/seuzht/seuzht.github.io/raw/master/Images/androidmk.png)
+![androidmk](https://github.com/seuzht/seuzht.github.io/raw/master/Images/androidmk.png)
 
 adt-bundle Installation and Eclipse Configuration
 
